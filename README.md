@@ -4,7 +4,7 @@
 
 First clone the repository:
 ```
-https://github.com/dice-group/dice-group-Convolutional-Hypercomplex-Embeddings-for-Link-Prediction.git
+https://github.com/dice-group/Convolutional-Hypercomplex-Embeddings-for-Link-Prediction.git
 ```
 Then obtain the required libraries:
 ```
