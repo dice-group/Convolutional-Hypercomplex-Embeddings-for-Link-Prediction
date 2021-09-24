@@ -22,7 +22,7 @@ The code is compatible with Python 3.6.4
 
 ## Link Prediction Results
 In the below, we provide a brief overview of the link prediction results.
-#### WN18RR####
+#### WN18RR
 |         |   MRR | Hits@1 | Hits@3 | Hits@10  |
 |---------|------:|-------:|-------:|--------:|
 | QMult   |.438   |.393    |.449    |.537   | 
@@ -30,7 +30,7 @@ In the below, we provide a brief overview of the link prediction results.
 | ConvQ   |.457   |.424    |.470    |.525| 
 | ConvO   |.458   |.427    |.473    |.521| 
 
-#### FB15K-237####
+#### FB15K-237
 |         |   MRR | Hits@1 | Hits@3 | Hits@10  |
 |---------|------:|-------:|-------:|--------:|
 | QMult   |.346   |.252    |.383    |.535   | 
@@ -38,7 +38,7 @@ In the below, we provide a brief overview of the link prediction results.
 | ConvQ   |.343   |.251    |.376    |.528| 
 | ConvO   |.366   |.271    |.403    |.543| 
 
-#### YAGO3-10####
+#### YAGO3-10
 |         |   MRR | Hits@1 | Hits@3 | Hits@10  |
 |---------|------:|-------:|-------:|--------:|
 | QMult   |.555   |.475    |.602    |.698   | 
@@ -48,7 +48,7 @@ In the below, we provide a brief overview of the link prediction results.
 
 ## Link Prediction Results via applying Semantic Constraint on Pretrained Models
 This is ongoing work. Currently, we are investigating the idea of constraining predictions based on semantic information provided in the input KG.
-#### WN18RR####
+#### WN18RR
 |         |   MRR | Hits@1 | Hits@3 | Hits@10  |
 |---------|------:|-------:|-------:|--------: |
 | QMult   |.473   |.427    |.491    |.565      | 
@@ -56,7 +56,7 @@ This is ongoing work. Currently, we are investigating the idea of constraining p
 | ConvQ   |.473   |.442    |.487    |.535      | 
 | ConvO   |.471   |.440    |.484    |.529      | 
 
-#### FB15K-237####
+#### FB15K-237
 |         |   MRR | Hits@1 | Hits@3 | Hits@10  |
 |---------|------:|-------:|-------:|---------:|
 | QMult   |.382   |.285    |.421    |.576      | 
@@ -64,7 +64,7 @@ This is ongoing work. Currently, we are investigating the idea of constraining p
 | ConvQ   |.375   |.280    |.409    |.568      | 
 | ConvO   |.398   |.301    |.437    |.592      | 
 
-#### YAGO3-10####
+#### YAGO3-10
 |         |   MRR | Hits@1 | Hits@3 | Hits@10  |
 |---------|------:|-------:|-------:|--------: |
 | QMult   |.576   |.490    |.631    |.728      | 
