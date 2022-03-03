@@ -1,7 +1,7 @@
 # [Convolutional Hypercomplex Embeddings for Link Prediction](https://proceedings.mlr.press/v157/demir21a.html)
 This open-source project contains the Pytorch implementation of our approaches (QMult, OMult, ConvQ, and ConvO), training and evaluation scripts. 
 We added our models into [Knowledge Graph Embeddings at Scale](https://github.com/dice-group/DAIKIRI-Embedding) open-source project to ease the deployment and the distributed computing.
-
+Therein, we provided pre-trained models on many knowledge graphs.
 ## Installation
 
 First clone the repository:
